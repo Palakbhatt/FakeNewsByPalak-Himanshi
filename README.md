@@ -1,4 +1,4 @@
-# FakeNewsByPalak-Himanshi
+# Fake News Prediction By Palak Bhatt and Himanshi Bansal
 Description
 
 Problem Statement - Develop a deep learning program to identify when an article might be fake news. First of all, convert text data to numerical data using NLP and then predict whether the news is fake or real using an Artificial Neural Network.
